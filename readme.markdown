@@ -12,5 +12,5 @@ CUDA and Java binding
 
 ## Project layout
 
-* 'data/cuda' contains cuda source file (*.cu) and their compiled version (*.ptx)
+* 'data/cuda' contains cuda source file (\*.cu) and their compiled version (\*.ptx)
 * 'lib/' used for both sbt library management and in the native library lookup (modified version of 'cuda.LibUtils' to define the base lib dir.)
